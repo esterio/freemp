@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FreeMp</string>
+
+    <!-- Playlist -->
+    <string name="save">Выбрать &amp; Закрыть</string>
+    <string name="select_pls">Выберите треки</string>
+
+    <!-- Player -->
+    <string name="open_fs">Открыть</string>
+    <string name="createNewPlaylist">Могу я просканировать файловую систему сейчас?\n</string>
+    <string name="shuffle_is">Случайный режим:</string>
+    <string name="dlg_choosedir_title">Выберите папку с музыкой или нажмите OK</string>
+    <string name="setup_scandir">Установить директорию сканирования</string>
+
+    <string name="error">Опс!</string>
+    <string name="set_as_ringtone">Трек установлен как рингтон</string>
+    <string name="contextmenu_setasringtone">Установить трек как рингтон?</string>
+    <string name="find_aw">Найти обложки альбомов</string>
+    <string name="search">Искать</string>
+
+    <string name="tab_folders">ПАПКИ</string>
+    <string name="tab_albums">АЛЬБОМЫ</string>
+    <string name="tab_artists">АРТИСТЫ</string>
+    <string name="dir_reset">Некорректная директория. Сброшено</string>
+    <string name="areyousure">Уверен?</string>
+    <string name="open_ms">Open Media Store</string>
+    <string name="flurry">TT2CP65VTX9TN8S5D7ZV</string>
+    <string name="open_gm">Open Google Music</string>
+    <string name="info_google_music">Gooogle Play Music - it is service for uploading and listening music anywhere. You must
+        have Active account on google play music for listening tracks via FreeAmp. FreAmp support only playing tracks -  uploaded by You.
+    </string>
+
+</resources>

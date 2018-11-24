@@ -11,7 +11,6 @@ Based on BASS library.
 - Custom mediascanner and tags reader
 - Don't guzzle battery
 - No more 100500 settings (it's just work)
-- Play music uploaded on Google Music
 - Smart coverart finder
 - LockScreen Widget (4.2)
 - Play/Pause on headphones plug/unplug
@@ -41,13 +40,11 @@ It is an open source player and you're welcome to contribute.
 
 **Get it on Google Play:**
 
-[Google Play](https://play.google.com/store/apps/details?id=ru.recoilme.freeamp)
+[Google Play](https://play.google.com/store/apps/details?id=org.freemp.droid)
 
 **Screenshots:**
 
-![Screenshot](https://github.com/recoilme/freemp/blob/master/screen10.png?raw=true)
-![Screenshot](https://github.com/recoilme/freemp/blob/master/screen11.png?raw=true)
-![Screenshot](https://github.com/recoilme/freemp/blob/master/screen12.png?raw=true)
+![Screenshot](https://github.com/recoilme/freemp/blob/master/screen2.png?raw=true)
 
 **Troubleshooting:**
 
@@ -56,6 +53,12 @@ Fill free to write me at vadim.kulibaba@gmail.com
 
 ### Author
 Kulibaba Vadim <<vadim.kulibaba@gmail.com>>
+
+### Thanks for App Icon to Ponomarenko Ilia
+[Пономаренко Илья](https://plus.google.com/u/0/+%D0%98%D0%BB%D1%8C%D1%8F%D0%9F%D0%BE%D0%BD%D0%BE%D0%BC%D0%B0%D1%80%D0%B5%D0%BD%D0%BA%D0%BE/posts).
+
+
+[Android icon](http://www.wallpaperfx.com/blog/3d-softwarefx-icons/).
 
 ### License
 Distributed under [Apache 2 license](https://bitbucket.org/recoilme/freeamp/raw/master/LICENSE.txt).
